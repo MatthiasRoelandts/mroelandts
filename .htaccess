@@ -1,0 +1,2 @@
+# Dit zorgt er voor dat pagina's zonder index bestand niet benaderd kunnen worden
+Options -indexes
