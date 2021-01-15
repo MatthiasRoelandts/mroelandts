@@ -1,5 +1,5 @@
 # mroelandts.github.io
-static testing page
+static page
 
-Go to [webpage](https://matthiasroelandts.github.io/mroelandts)
+Go to [webpage](https://mroelandts.github.io/mroelandts)
 
