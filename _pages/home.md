@@ -15,8 +15,8 @@ Except for the live stream of the (self-made) bird-box!
 
 ## Highlights form the live stream
 <figure class="half">
-    <a href="/assets/images/highlight_1.jpg"><img src="/assets/images/highlight_1.jpg"></a>
-    <a href="/assets/images/highlight_2.jpg"><img src="/assets/images/highlight_2.jpg"></a>
-    <a href="/assets/images/highlight_3.jpeg"><img src="/assets/images/highlight_3.jpeg"></a>
-    <a href="/assets/images/highlight_4.jpeg"><img src="/assets/images/highlight_4.jpeg"></a>
+    <a href="{{ site.baseurl }}/assets/images/highlight_1.jpg"><img src="{{ site.baseurl }}/assets/images/highlight_1.jpg"></a>
+    <a href="{{ site.baseurl }}/assets/images/highlight_2.jpg"><img src="{{ site.baseurl }}/assets/images/highlight_2.jpg"></a>
+    <a href="{{ site.baseurl }}/assets/images/highlight_3.jpeg"><img src="{{ site.baseurl }}/assets/images/highlight_3.jpeg"></a>
+    <a href="{{ site.baseurl }}/assets/images/highlight_4.jpeg"><img src="{{ site.baseurl }}/assets/images/highlight_4.jpeg"></a>
 </figure>
