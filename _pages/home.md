@@ -20,3 +20,7 @@ Except for the live stream of the (self-made) bird-box!
     <a href="{{ site.baseurl }}/assets/images/highlight_3.jpeg"><img src="{{ site.baseurl }}/assets/images/highlight_3.jpeg"></a>
     <a href="{{ site.baseurl }}/assets/images/highlight_4.jpeg"><img src="{{ site.baseurl }}/assets/images/highlight_4.jpeg"></a>
 </figure>
+
+## Live stream not working?
+Since I do not have an infrared camera, there is nothing to see once the sun goes down. So during that time the live stream will be stopped.
+Come back tomorrow for a new live stream!
