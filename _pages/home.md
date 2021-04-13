@@ -13,7 +13,7 @@ Except for the live stream of the (self-made) bird-box!
 
 <iframe width="424" height="240" src="https://www.youtube.com/embed/live_stream?channel=UCe1CcDMumN3CarckgJC8xXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Highlights form the live stream
+## Highlights from the live stream
 <figure class="half">
     <a href="{{ site.baseurl }}/assets/images/highlight_1.jpg"><img src="{{ site.baseurl }}/assets/images/highlight_1.jpg"></a>
     <a href="{{ site.baseurl }}/assets/images/highlight_2.jpg"><img src="{{ site.baseurl }}/assets/images/highlight_2.jpg"></a>
